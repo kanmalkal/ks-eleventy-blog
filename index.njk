@@ -4,9 +4,12 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
+<table>
+<tr>
+  <td></td>
+  <td>
 <h1>Kalyani</h1>
 <image src='/img/kalyani_for_blog.png'/>
-
 <section>
 <h2>About me</h2>
 
@@ -21,11 +24,17 @@ My passions are - Domain Driven Design,  Observability, and Data quality
 The journey begins
 
 </section>
+</table>
+<section>
 {% set maxPosts = collections.posts.length | min(3) %}
 <h2>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h2>
 
 {% set postslist = collections.posts | head(-3) %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
-
+</section>
 <p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+</td>
+<td></td>
+</tr>
+</table>
