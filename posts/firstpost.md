@@ -3,7 +3,7 @@ title: The book - Domain Driven Desgin
 description: About the bookd "Domain Driven Design" by Eric Evans
 date: 2022-08-22
 tags:
-  - Domain Driven Desgin
+  - Domain Driven Design
   - Eric Evans
 layout: layouts/post.njk
 ---
