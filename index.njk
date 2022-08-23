@@ -7,7 +7,8 @@ eleventyNavigation:
 <h1>Kalyani</h1>
 <image src='/img/kalyani_for_blog.png'/>
 
-<h1>About me</h1>
+<section>
+<h2>About me</h2>
 
 I am a software engineer, always trying to keep-up.  You can see my resume at 
 <a>https://www.linkedin.com/in/kalyani-sundaresan-335b66196/</a>
@@ -19,7 +20,7 @@ My passions are - Domain Driven Design,  Observability, and Data quality
 
 The journey begins
 
-
+</section>
 {% set maxPosts = collections.posts.length | min(3) %}
 <h2>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h2>
 
