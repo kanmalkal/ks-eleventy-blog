@@ -1,18 +1,8 @@
 {
-  "title": "Kalyani's Reads",
+  "title": "Kallyani Reads",
   "url" : "",
   "language": "en",
   "description": "I am going to use these blogs to tell you about my tech reading experience",
-  "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
-    "filename": "feed.xml",
-    "path": "/feed/feed.xml",
-    "id": "https://example.com/"
-  },
-  "jsonfeed": {
-    "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
-  },
   "author": {
     "name": "Kalyani",
     "email": "kanmalkal@gmail.com",
