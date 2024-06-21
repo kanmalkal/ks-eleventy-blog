@@ -1,6 +1,7 @@
 # Who am I?
 
-I am a software engineer, who has embarked on a journey to learn Domain Driven Design.
+I am a software engineer, who has embarked on a journey to read Domain Driven Design
+I have read the book "Domain Driven Design" by Eric Evans.. yes, I can proudly say I read the book cover to cover
 
 # What am I doing now?
 

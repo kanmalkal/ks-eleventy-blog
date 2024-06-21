@@ -1,27 +1,20 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+title: The book - Domain Driven Desgin
+description: About the bookd "Domain Driven Design" by Eric Evans
+date: 2022-08-22
 tags:
-  - another tag
+  - Domain Driven Design
+  - Eric Evans
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+I got introduced to Domain Driven Design about a year ago.  Since then have been trying to read blogs and watch videos about it.  Then, I attended a lecture by a very respected architect who came to give a guest lecture at work.  He said - the best book for Domain Driven Design is the book by Eric Evans - but don't read the book - it is repititive and boring.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+So, I decided to read the book.  And being an old-fashioned reader, bought the actual hardcover and started reading, fully expecting it to get bored and dump it somewhere down the line.  Contrary to my expectations and frankly a bit surprising to myself, I read the whole book.  
 
-## Section Header
-woohoo
+## These blogs?
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+The next few blogs will be my experience in reading the book and trying to highlight concepts as we go.  
 
-```diff-js
-// this is a command
-function myCommand() {
-+	let counter = 0;
-+	counter++;
-}
+# How to read the book?
 
-// Test with a line break above this line.
-console.log('Test');
-```
+
